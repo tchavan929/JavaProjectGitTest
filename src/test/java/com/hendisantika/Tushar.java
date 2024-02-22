@@ -8,4 +8,7 @@ public  class  Tushar{
     public void add2(){
         
     }
+    public void add3(){
+        
+    }
 }
